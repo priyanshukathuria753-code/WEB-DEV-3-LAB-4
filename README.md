@@ -33,6 +33,14 @@ lab4-full/
     └── Lab4.postman_collection.json   ready-made API tests
 ```
 
+<img width="1393" height="792" alt="1" src="https://github.com/user-attachments/assets/1168f7b2-fe70-42c9-9389-fa97e3122acd" />
+<img width="1387" height="833" alt="2" src="https://github.com/user-attachments/assets/34e42b80-2b43-4e7b-a0a3-1c626b6c243b" />
+<img width="1368" height="740" alt="3" src="https://github.com/user-attachments/assets/56374085-d31f-47ce-8eab-419b167e16f0" />
+<img width="1387" height="862" alt="4" src="https://github.com/user-attachments/assets/7c3116d7-0885-41c5-aff6-82c33ce5b001" />
+<img width="1396" height="873" alt="5" src="https://github.com/user-attachments/assets/26a12f3f-c907-4511-a134-2c40ff4f180c" />
+<img width="1276" height="478" alt="6" src="https://github.com/user-attachments/assets/e1655be7-29a9-4642-929d-b02693aa534f" />
+
+
 ## How to Run
 
 1. Install **Node.js (LTS)** from [nodejs.org](https://nodejs.org/).
